@@ -18,13 +18,13 @@
                 },
                 {
                     "name": "19r3",
-                    "overview": "docs/collections/19r2/Overview.html",
+                    "overview": "docs/collections/19r3/Overview.html",
                     "services": [
-                        { "name": "Case", "jsonUrl": "docs/collections/19r2/swagger_cases.json" },
-                        { "name": "Debtor", "jsonUrl": "docs/collections/19r2/swagger_debtor.json" },
-                        { "name": "Identity", "jsonUrl": "docs/collections/19r2/swagger_identity.json" },
-                        { "name": "Messaging", "jsonUrl": "docs/collections/19r2/swagger_messaging.json" },
-                        { "name": "Payments", "jsonUrl": "docs/collections/19r2/swagger_payments.json" }
+                        { "name": "Case", "jsonUrl": "docs/collections/19r3/swagger_cases.json" },
+                        { "name": "Debtor", "jsonUrl": "docs/collections/19r3/swagger_debtor.json" },
+                        { "name": "Identity", "jsonUrl": "docs/collections/19r3/swagger_identity.json" },
+                        { "name": "Messaging", "jsonUrl": "docs/collections/19r3/swagger_messaging.json" },
+                        { "name": "Payments", "jsonUrl": "docs/collections/19r3/swagger_payments.json" }
                     ]
                 },
                 {
