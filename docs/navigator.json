@@ -1,10 +1,13 @@
 {
+    "overview": "docs/Overview.html",
     "apps": [
         {
             "name": "Collections",
+            "overview": "docs/collections/Overview.html",
             "versions": [
                 {
                     "name": "19r2",
+                    "overview": "docs/collections/19r2/Overview.html",
                     "services": [
                         { "name": "Case", "jsonUrl": "docs/collections/19r2/swagger_cases.json" },
                         { "name": "Debtor", "jsonUrl": "docs/collections/19r2/swagger_debtor.json" },
@@ -15,6 +18,7 @@
                 },
                 {
                     "name": "19r3",
+                    "overview": "docs/collections/19r2/Overview.html",
                     "services": [
                         { "name": "Case", "jsonUrl": "docs/collections/19r2/swagger_cases.json" },
                         { "name": "Debtor", "jsonUrl": "docs/collections/19r2/swagger_debtor.json" },
@@ -25,6 +29,7 @@
                 },
                 {
                     "name": "NewAPI",
+                    "overview": "docs/collections/NewAPI/Overview.html",
                     "services": [
                         { "name": "Case", "jsonUrl": "docs/collections/NewAPI/swagger_casesvc.json" },
                         { "name": "Claim", "jsonUrl": "docs/collections/NewAPI/swagger_claimsvc.json" },
