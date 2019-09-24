@@ -10,11 +10,11 @@
                     "overview": "docs/collections/19r2/Overview.html",
                     "services": [
                         { "name": "Case", "jsonUrl": "docs/collections/19r2/19r2_casesvc.json" },
-                        { "name": "Case", "jsonUrl": "docs/collections/19r2/19r2_debtorsvc.json" },
-                        { "name": "Case", "jsonUrl": "docs/collections/19r2/19r2_identitysvc.json" },
-                        { "name": "Case", "jsonUrl": "docs/collections/19r2/19r2_messagingsvc.json" },
-                        { "name": "Case", "jsonUrl": "docs/collections/19r2/19r2_paymentssvc.json" },
-                        { "name": "Case", "jsonUrl": "docs/collections/19r2/19r2_telephonysvc.json" }
+                        { "name": "Debtor", "jsonUrl": "docs/collections/19r2/19r2_debtorsvc.json" },
+                        { "name": "Identity", "jsonUrl": "docs/collections/19r2/19r2_identitysvc.json" },
+                        { "name": "Messaging", "jsonUrl": "docs/collections/19r2/19r2_messagingsvc.json" },
+                        { "name": "Payments", "jsonUrl": "docs/collections/19r2/19r2_paymentssvc.json" },
+                        { "name": "Telephony", "jsonUrl": "docs/collections/19r2/19r2_telephonysvc.json" }
                     ]
                 },
                 {
